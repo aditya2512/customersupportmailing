@@ -92,9 +92,6 @@ CustomerSupportAutomation.ipynb   # Main Jupyter Notebook
 requirements.txt                  # Python dependencies (to be created)
 README.md                         # Project documentation
 ```
-
 Pull requests are welcome! If you’d like to add new tools, improve agent logic, or optimize workflows, feel free to fork and submit changes.
-
----
 
 
